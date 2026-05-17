@@ -171,7 +171,7 @@ export default function Home() {
               </div>
               <div className="result">★ Full marks · 100% reliability</div>
             </div>
-            <div className="project-card">
+            {/* <div className="project-card">
               <h3>Steering Wheel Controller PCB</h3>
               <div className="meta">Sunswift Racing · 2023–2024</div>
               <div className="desc">
@@ -202,7 +202,7 @@ export default function Home() {
                 <span className="tag">HV</span>
               </div>
               <div className="result">★ Fully functional</div>
-            </div>
+            </div> */}
             <div className="project-card">
               <h3>Git Reimplemented in Python</h3>
               <div className="meta">COMP2041 · 2024</div>
